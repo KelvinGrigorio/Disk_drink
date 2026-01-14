@@ -126,7 +126,7 @@ const PRELOADER_LOGO_URL = 'https://drive.google.com/thumbnail?id=17vfpzTFxxky9-
  * const PRELOADER_COLOR = '#2ecc71'; // Verde
  * const PRELOADER_COLOR = '#9b59b6'; // Roxo 
  */
-const PRELOADER_COLOR = '#b56a19'; // Cor principal do preloader
+const PRELOADER_COLOR = '#1D175B'; // Cor principal do preloader
 
 
 
